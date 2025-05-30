@@ -56,7 +56,8 @@ Arduino IDE, VS Code, PlatformIO, KiCad, PulseView, USB tools
 
 - 💡 Tech-focused, always building something.
 - - 🌐 [Your Website or Blog, if any]
-- 📫 [Your Email or Contact]
+- 📫 [https://discord.com/users/854417544214872094] My Discord
+- [https://t.me/Lper66] My Telegram
 - 🛠️ Stay tuned for new hardware drops, test tools, and open-source firmware!
 
 ---
