@@ -29,7 +29,7 @@ I work with tools, boards, code, and concepts — learning by doing and building
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 **Hardware & Boards:**  
-ESP32, STM32, Hack Rf One H4M, Flipper Zero, displays, sensors, logic analyzers
+Raspberry PI 4, Hack Rf One H4M, Flipper Zero, ESP32, STM32, logic analyzers
 
 **Software & IDEs:**  
 Arduino IDE, VS Code, PlatformIO, KiCad, PulseView, USB tools
