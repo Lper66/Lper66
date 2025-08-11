@@ -12,7 +12,7 @@ I work with tools, boards, code, and concepts — learning by doing and building
 ## 🛠️ What I Do
 
 - 🧩 Design and build custom **PCBs**
-- ⚙️ Develop my own **firmware** using **C/C#** in the **Arduino IDE**
+- ⚙️ Develop my own **firmware** using **C/C++** in the **Arduino IDE**
 - 🔌 Test and explore all kinds of **tech systems** and hardware
 - 🧪 Build side-projects and tools to experiment and learn
 - 💻 Write code in **C**, **C#**, **Python**, and a bit of **C++**
